@@ -24,11 +24,11 @@
 
 ## 📊 GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jabinwan&show_icons=true&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jabinwan&show_icons=true&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats" />
-  </picture>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jabinwan&theme=transparent" height="160" alt="profile details" />
+</a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=jabinwan&hide_border=true&background=00000000" height="160" alt="contribution streak" />
 </a>
 
 ---

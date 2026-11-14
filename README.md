@@ -7,7 +7,6 @@
 ## 🤖 日常在用的 AI 工具
 
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](https://claude.ai)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff)](https://claude.com/claude-code)
 [![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)](https://openai.com/codex)
 [![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](https://deepseek.com)

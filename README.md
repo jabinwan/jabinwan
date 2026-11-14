@@ -7,7 +7,7 @@
 ## 🔭 现在在做
 
 - **Agent Memory** 与 **Proactive Agent Harness** 研究——拆解开源 Agent 的主动智能机制(最近在深读 [nanoMuse](https://github.com/nano-muse/nanoMuse))
-- 维护双语博客 **[jabinwan.pages.dev](https://jabinwan.pages.dev)** — 从"你问它答"到"它主动找你"
+- 维护双语博客 **[jabinwan.com](https://jabinwan.com)** — 从"你问它答"到"它主动找你"
 
 ## 🛠️ 技术栈
 
@@ -35,6 +35,6 @@
 
 > **以好奇提问,以品味取舍,以主动成事;其余的,交给机器。**
 
-[![Blog](https://img.shields.io/badge/blog-jabinwan.pages.dev-0a66e4?style=flat-square)](https://jabinwan.pages.dev)
+[![Blog](https://img.shields.io/badge/blog-jabinwan.com-0a66e4?style=flat-square)](https://jabinwan.com)
 [![X](https://img.shields.io/badge/X-@jabinwan-000000?style=flat-square)](https://x.com/jabinwan)
-[![RSS](https://img.shields.io/badge/RSS-subscribe-f26522?style=flat-square)](https://jabinwan.pages.dev/rss.xml)
+[![RSS](https://img.shields.io/badge/RSS-subscribe-f26522?style=flat-square)](https://jabinwan.com/rss.xml)

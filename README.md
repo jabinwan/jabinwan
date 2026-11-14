@@ -4,6 +4,15 @@
 
 从 Linux 内核、Android Framework 一路走到 AI 工程,现在专注 **Agent Memory、可观测性与效果评测**——研究 AI 如何记住你、如何主动帮你、以及如何科学地评测它。
 
+## 🤖 日常在用的 AI 工具
+
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](https://claude.ai)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff)](https://claude.com/claude-code)
+[![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)](https://openai.com/codex)
+[![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](https://deepseek.com)
+[![ZCode](https://img.shields.io/badge/ZCode-10a37f?logoColor=fff)](https://github.com/jabinwan)
+
 ## 🔭 现在在做
 
 - **Agent Memory** 与 **Proactive Agent Harness** 研究——拆解开源 Agent 的主动智能机制(最近在深读 [nanoMuse](https://github.com/nano-muse/nanoMuse))
@@ -11,16 +20,14 @@
 
 ## 🛠️ 技术栈
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,python,java,linux,android&perline=8" alt="tech stack" />
-</a>
-
-## 🤖 AI 编程
-
-[![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)](https://openai.com/codex)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-d97757?style=flat-square&logo=claude&logoColor=white)](https://claude.com/claude-code)
-[![WorkBuddy](https://img.shields.io/badge/WorkBuddy-2563eb?style=flat-square)](https://github.com/jabinwan)
-[![ZCode](https://img.shields.io/badge/ZCode-10a37f?style=flat-square)](https://github.com/jabinwan)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffe873)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ## 📊 GitHub
 
@@ -35,6 +42,6 @@
 
 > **以好奇提问,以品味取舍,以主动成事;其余的,交给机器。**
 
-[![Blog](https://img.shields.io/badge/blog-jabinwan.com-0a66e4?style=flat-square)](https://jabinwan.com)
-[![X](https://img.shields.io/badge/X-@jabinwan-000000?style=flat-square)](https://x.com/jabinwan)
-[![RSS](https://img.shields.io/badge/RSS-subscribe-f26522?style=flat-square)](https://jabinwan.com/rss.xml)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/jabinwan)
+[![Blog](https://img.shields.io/badge/jabinwan.com-0a66e4?logo=bookmeter&logoColor=white)](https://jabinwan.com)
+[![RSS](https://img.shields.io/badge/RSS-f26522?logo=rss&logoColor=white)](https://jabinwan.com/rss.xml)

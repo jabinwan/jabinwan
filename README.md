@@ -11,12 +11,10 @@
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff)](https://claude.com/claude-code)
 [![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)](https://openai.com/codex)
 [![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](https://deepseek.com)
-[![ZCode](https://img.shields.io/badge/ZCode-10a37f?logoColor=fff)](https://github.com/jabinwan)
 
-## 🔭 现在在做
+## 🔭 研究方向
 
-- **Agent Memory** 与 **Proactive Agent Harness** 研究——拆解开源 Agent 的主动智能机制(最近在深读 [nanoMuse](https://github.com/nano-muse/nanoMuse))
-- 维护双语博客 **[jabinwan.com](https://jabinwan.com)** — 从"你问它答"到"它主动找你"
+**Agent Memory · Proactive Agent Harness** —— 正在从源码拆解开源 Agent 的主动智能实现,最近在读 [nanoMuse](https://github.com/nano-muse/nanoMuse)
 
 ## 🛠️ 技术栈
 
